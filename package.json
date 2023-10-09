@@ -1,0 +1,11 @@
+{
+  "name": "decorator-reflect-metadata",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "tsc & node dist/index.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "reflect-metadata": "^0.1.13"
+  }
+}
